@@ -1,0 +1,5 @@
+1. Create database name it "rating" without quotes from phpmyadmin.
+2. Click on newly created database.
+3. Click on Import From top navigation bar.
+4. Choose file rating.sql, saved in root of the directory. 
+5. Ready.
